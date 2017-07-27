@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hfesfesfwo
+title: ÕýÒ»ÄãºÃ°¡
 subtitle: wtf
 description: helo
 author: John Doe
@@ -78,4 +78,6 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/hydillacai/hydillacai.github.io
+  repository: https://github.com/hydillacai/hydillacai.github.io.git
+  branch: master
+  plugins: -hexo-generator-feed
